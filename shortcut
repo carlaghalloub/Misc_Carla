@@ -1,0 +1,3 @@
+alias newb='git branch Carla'
+alias gs ='git status -s'
+alias ga ='git add .'
